@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.img {
+  height: 20px;
+  width: 20px;
+}
+.sugg {
+  color: #475569;
+  font-size: 12px;
+}
+.buton {
+  background-color: white;
+  border-width: 0px;
+}
